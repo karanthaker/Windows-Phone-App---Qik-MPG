@@ -1,0 +1,14 @@
+﻿<xapCache source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\Bin\Debug\QikMPG.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="3/9/2012 9:37:02 AM">
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="3/6/2012 1:16:06 AM" />
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\Background.png" archivePath="Background.png" lastWriteTime="3/6/2012 1:09:36 AM" />
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="3/6/2012 1:09:14 AM" />
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\obj\Debug\FuelTracker.dll" archivePath="FuelTracker.dll" lastWriteTime="3/9/2012 9:37:01 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="9/15/2011 7:36:26 PM" />
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\Images\appbar.delete.rest.png" archivePath="Images\appbar.delete.rest.png" lastWriteTime="1/19/2012 4:23:16 PM" />
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="1/19/2012 4:23:16 PM" />
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\Images\car.png" archivePath="Images\car.png" lastWriteTime="1/19/2012 4:23:16 PM" />
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\Images\fillup.png" archivePath="Images\fillup.png" lastWriteTime="1/19/2012 4:23:16 PM" />
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\Images\gasPump.png" archivePath="Images\gasPump.png" lastWriteTime="3/5/2012 9:57:04 PM" />
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="3/6/2012 1:12:17 AM" />
+  <file source="C:\Users\krt\Desktop\WP7 Builds\Qik MPG\FuelTracker\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2/27/2012 11:49:38 PM" />
+</xapCache>
